@@ -1,0 +1,14 @@
+ul li {
+	display: inline-block;
+}
+
+.inline {
+	display: block;
+	margin: 25px 25px;
+	border: 1px solid #000;
+
+}
+
+.n-child section:nth-child(even) {
+	border: 1px solid red;
+}
